@@ -1,4 +1,5 @@
 page
+
 https://wasmedge.org/book/en/dev/rust.html#hello-world-run-the-application-from-command-line
 
 commands
